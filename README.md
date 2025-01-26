@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🌱 I’m currently learning: Linear Programming and Web3 Development
+- 🌱 I’m currently learning: Linear Programming, Web3 Development, and relearning Express JS
 - 📫 Learn more about me: https://matthewyu.me
 - ⚡ Fun fact: I ran 100 + Kilometers every week for 2 years straight to prepare for races.  I stopped cause of the IB programme.  
 
