@@ -1,5 +1,14 @@
 ## Hello !
-My name is Matthew Yu, a 18 year old developer, mathematician, runner, and dreamer.   Currently, I am studying Computer Science at the University of Waterloo and learning more about the cloud and ml.
 
-Learn more about me here:
-[Personal Website](https://matthewyu.tech)
+My name is Matthew Yu, a 19 year old software engineer, mathematician, runner, and dreamer.  I aspire to be remembered as someone who created new things to solve important problems and create positive impact.
+
+Currently, I am studying Computer Science at the University of Waterloo, working as hard as I can to become the best version of myself.
+
+
+
+
+Learn more me on my 
+[Personal Website](https://matthewyu.tech)!
+
+
+
